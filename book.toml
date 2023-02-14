@@ -1,5 +1,6 @@
 [book]
-authors = []
+title = "Peppubooks Documentation"
+authors = ["Peppubooks"]
 language = "en"
 multilingual = false
 src = "src"
