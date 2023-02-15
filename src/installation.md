@@ -8,13 +8,23 @@ Now, install PayTrack from [Google Marketplace](https://workspace.google.com/mar
 
 - See and download all your Google Drive files
 
+    We need this scope so that our users can create a Google Sheet using our transaction template. This scope allows Google search for the Spreadsheet from PayTrack's drive into the user's Drive.
+
 - See, edit, create, and delete only the specific Google Drive files you use with this app
+
+    This scope allows our users to create a new transaction sheet.
 
 - See, edit, create, and delete all your Google Sheets spreadsheets
 
+    With this scope, our users can add invoice templates to their worksheet from our bank of invoice templates.
+
 - Send email as you
 
+    This scope allows PayTrack send mails to our user's clients to remind them of unpaid invoices.
+
 - Allow this application to run when you are not present
+
+    PayTrack uses triggers to automate processes. For instance, the scope above allows us automate invoice reminders even when the user isn't using PayTrack at the moment.
 
 ## What Is Next?
 After installation, you can find the PayTrack icon at the right hand side of your Drive App. Create a new file to record your transaction from your Drive.
