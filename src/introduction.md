@@ -32,7 +32,7 @@ We think that basing Peppubooks on this research and modern accounting principle
 
 Here's a list of our accounting solutions:
 
-### [PayTrack](./chapter_1.md)
+### [PayTrack](./installation.md)
 PayTrack is a Peppubooks accounting solution for freelancers and small businesses. We're elated for you to tryout Paytrack, you can now install our Google Add-on on [Google Marketplace](https://workspace.google.com/marketplace/app/paytrack/913987535189).
 
 # Contact
