@@ -1,5 +1,7 @@
 # PayTrack
 
+Let's walk you through using PayTrack and all of it's features.
 
-https://user-images.githubusercontent.com/62933980/219992235-90ad4fcd-2169-4f5e-bd90-02f08f7d80b6.mov
-
+- Invoice Generation: Create, send and track invoice from start to finish.
+- Invoice Reminders: Clients get notifications about unpaid invoices, three days to the due date.
+- Complete Transactions: When invoices are paid, they're registered in the transactions sheet.
